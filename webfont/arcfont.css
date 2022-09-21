@@ -1,0 +1,11 @@
+@font-face{
+	font-family:'arcfont';
+	src:url('arctype-webfont.eot');
+	src:url('arctype-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('arctype-webfont.woff2') format('woff2'),
+		 url('arctype-webfont.woff') format('woff'),
+		 url('arctype-webfont.ttf') format('truetype'),
+		 url('arctype-webfont.svg#arcfontregular') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
