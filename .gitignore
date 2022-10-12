@@ -3,6 +3,7 @@
 
 # Other files and folders
 .settings/
+*.backup/
 
 # Exclusions
 *.swf
